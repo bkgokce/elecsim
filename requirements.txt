@@ -109,7 +109,7 @@ pep8==1.7.1
 pexpect==4.6.0
 pickleshare==0.7.5
 Pillow==7.1.1
-pipenv==2018.11.26
+pipenv==2022.4.20
 pkginfo==1.5.0.1
 pluggy==0.8.1
 ply==3.11
@@ -185,7 +185,7 @@ tornado==4.5.3
 tqdm==4.31.1
 traitlets==4.3.2
 twine==1.13.0
-typed-ast==1.4.1
+typed-ast
 typing-extensions==3.7.4.2
 urllib3==1.24.1
 virtualenv==15.1.0
