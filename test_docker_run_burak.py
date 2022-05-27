@@ -1,6 +1,6 @@
 from elecsim.model.world import World 
 
-number_of_years = 20
+number_of_years = 2
 number_of_time_steps = 8
 
 if __name__ == "__main__":
