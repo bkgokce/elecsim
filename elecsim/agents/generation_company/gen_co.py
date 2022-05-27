@@ -23,11 +23,6 @@ logger = logging.getLogger(__name__)
 
 """gen_co.py: Agent which represents a generation company"""
 
-__author__ = "Alexander Kell"
-__copyright__ = "Copyright 2018, Alexander Kell"
-__license__ = "MIT"
-__email__ = "Alexander@Kell.es"
-
 
 class GenCo(Agent):
     def __init__(self, unique_id, model, name, difference_in_discount_rate, look_back_period, plants=None,

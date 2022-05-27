@@ -9,11 +9,6 @@ logger = logging.getLogger(__name__)
 
 """demand.py: Agent which simulates the demand of the UK"""
 
-__author__ = "Alexander Kell"
-__copyright__ = "Copyright 2018, Alexander Kell"
-__license__ = "MIT"
-__email__ = "Alexander@Kell.es"
-
 
 class Demand(Agent):
 

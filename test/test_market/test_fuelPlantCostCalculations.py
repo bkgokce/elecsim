@@ -8,17 +8,6 @@ from elecsim.role.plants.costs.fuel_plant_cost_calculations import FuelPlantCost
 
 logger = logging.getLogger(__name__)
 
-"""
-File name: test_fuelPlantCostCalculations
-Date created: 27/12/2018
-Feature: #Enter feature description here
-"""
-
-__author__ = "Alexander Kell"
-__copyright__ = "Copyright 2018, Alexander Kell"
-__license__ = "MIT"
-__email__ = "alexander@kell.es"
-
 
 logging.basicConfig(level=logging.DEBUG)
 
